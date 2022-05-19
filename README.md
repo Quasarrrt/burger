@@ -11,6 +11,7 @@ React, Redux, TypeScript, React DnD, React Router и Redux Thunk, Web Socket, а
 ```bash
 git clone https://github.com/Quasarrrt/react-burger.git
 ```
+## Запуск через npm
 Установить зависимости
 ```bash
 npm install
@@ -18,4 +19,12 @@ npm install
 Запустить проект
 ```bash
 npm start
+```
+## Запуск через Docker
+```bash
+docker-compose build
+```
+Запустить контейнер
+```bash
+docker-compose up
 ```
