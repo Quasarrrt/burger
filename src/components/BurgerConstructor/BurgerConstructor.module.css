@@ -1,0 +1,17 @@
+.items{
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+
+}
+.totalWrapper {
+ display: flex;
+ justify-content: flex-end;
+}
+.totalPrice {
+    display: flex;
+    align-items: center;
+}
+
